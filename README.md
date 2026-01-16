@@ -11,3 +11,5 @@ My japanese is incredibly basic so i got some help, as such the tone is unlikely
 
 作：みつどもえ工房
 曲：カナン様、かんてゐく様
+
+https://note.com/mitsudomoekoubou/n/ne0d5bf839e31 - creator content guidelines
