@@ -1,5 +1,5 @@
 # Hyozetu30-English
-A english translation for 氷点下30度の絶望 (Despair at −30°)
+A english fan-translation for 氷点下30度の絶望 (Despair at −30°)
 
 This replaces the ASAR file contained withing the official download to translate the text
 It is located in your install-location/resources
